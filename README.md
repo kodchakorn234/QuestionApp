@@ -1,7 +1,16 @@
-Prototype : https://www.figma.com/file/kJpw2B59uiYlJGgZH73Xer/Untitled?type=design&node-id=0%3A1&mode=design&t=T4Rqd68ZNRJKVRCB-1
+# secondproject
 
-Detail : Question Quiz เป็นแอปพลิเคชันแบบทดสอบ ที่จะให้ผู้ใช้งานได้ทำแบบทดสอบที่เกี่ยวกับ flutter และ Dart โดยมีทั้งหมด 20 ข้อ ข้อละ 4 คำตอบ
-โดยมีการสุ่มคำถามและคำตอบในแต่ละข้อ เพื่อให้ผู้ใช้สามารถลองทำแบบทดสอบไปเรื่อยๆได้ เมื่อทำแบบทดสอบเสร็จสิ้น ระบบจะนับคะแนนที่ผู้ใช้ได้ทั้งหมด/10 และแสดงคำตอบทั้งหมดที่ผู้ใช้เลือก
-คำตอบของผู้ใช้และคำตอบที่ถูก รวมถึงผู้ใช้งานยังสามารถเริ่มทำแบบทดสอบใหม่ได้ โดยแบบทดสอบลจะสุ่มข้อและคำตอบใหม่ 
+A new Flutter project.
 
-คลิปอธิบายการทำงานของโปรแกรม : https://youtu.be/-XC8SBqE4fY
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
